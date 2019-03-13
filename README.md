@@ -6,6 +6,7 @@ Word cloud is a specific way of presenting text. The more frequently you use the
 
 Colors used in this kind of graphs do not play any role as the main assumption is to present it in an elegant way. Anyway there is a simple trick that we can add to this graph. We can add  so called „mask”, which is a shape of background. As a result you could improve your presentations and make your audience more engaged with such interesting form of displaying text information.
 Below as an example I used the lyrics of Beyonce from the „Dangerously in Love” record using the word cloud on two types of masks.
+
 ![example2](https://github.com/MamczurMiroslaw/chart001_wordcloud/blob/master/2.png)
 
 I hope you like the idea of presenting your data on your company logo.
